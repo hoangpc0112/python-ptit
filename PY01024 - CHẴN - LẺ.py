@@ -12,6 +12,5 @@ def solve():
     print("YES" if sum % 10 == 0 else "NO")
 
 
-t = int(input())
-for i in range(t):
+for i in range(int(input())):
     solve()

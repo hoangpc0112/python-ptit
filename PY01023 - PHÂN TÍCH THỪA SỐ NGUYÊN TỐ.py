@@ -25,6 +25,5 @@ def solve():
     print("1 * " + res)
 
 
-t = int(input())
-for i in range(t):
+for i in range(int(input())):
     solve()

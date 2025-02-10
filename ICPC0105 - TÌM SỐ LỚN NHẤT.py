@@ -14,6 +14,5 @@ def solve():
     print(res)
 
 
-t = int(input())
-for i in range(t):
+for i in range(int(input())):
     solve()

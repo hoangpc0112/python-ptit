@@ -19,6 +19,5 @@ def solve():
     print("YES" if is_prime(cnt) else "NO")
 
 
-t = int(input())
-for i in range(t):
+for i in range(int(input())):
     solve()

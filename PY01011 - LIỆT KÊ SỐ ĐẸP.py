@@ -33,6 +33,5 @@ backtrack("8")
 
 a.sort()
 
-t = int(input())
-for i in range(t):
+for i in range(int(input())):
     solve()
